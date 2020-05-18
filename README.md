@@ -2,8 +2,6 @@
 适用于Sakura主题的live2d
 理论适应大部分
 
-食用方法https://m1314.cn/287.html
-
 
 [Fog-Forest](https://github.com/Fog-Forest/)
 
